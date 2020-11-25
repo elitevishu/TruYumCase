@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+    <link rel="stylesheet" type="text/css" href="style1.css">
+    <script src="validate.js"></script>
+    </head>
+    
+<body>
+    <header>
+      <span padding-left="50px">truYum</span>
+        <img src="images/knifelogo.png" alt="truYum_knife" width="40px" height="40px;">
+        <a href="main-item-list-customer.html" class="menu" >Menu</a>
+        
+    </header>
+    <div id="mainbody">
+    <h2 id="tabletitle2">Edit Menu Item</h2>
+         <table id="menu_table" >
+              
+              <tbody>
+            <tr class="editgrey">
+                <td ><b>Name</b></td>
+            </tr>
+
+            <tr id="newname1">  <td colspan="4"><input type="text" name="name" id="name" placeholder="Enter name of product" required> </td>
+            </tr>
+            <tr class="editgrey">
+                <th><b>Price (Rs.)</b></th>
+                <th><b>Active</b></th>
+                <th><b>Date Of Launch</b></th>
+                <th><b>Category</b></th>
+            </tr>
+             <tr>
+                <td><input type="text" name="price" id="price" required ></td>
+                  <td> <label for="active" id="l3">Yes</label>
+                <input type="radio" id="yes" name="active" value="yes" >
+            <label for="active" id="l4">No</label>
+                         <input type="radio" id="no" name="active" value="no"></td>
+                <td>  <input type="date" id="date" name="date" required></td>
+                <td> <select id="category" name="Main Course">
+  <option value="starters">Starters</option>
+  <option value="maincourse">Main Course</option>
+  <option value="dessert">Dessert</option>
+  <option value="drinks">Drinks</option>
+</select></td>
+              
+            </tr>
+                  <tr class="editgrey">
+                  <td> <input type="checkbox" id="freedelivery" name="free delivery" value="Free Delivery"> <b>
+Free Delivery</b> <br>     
+                      </td>
+                  </tr>
+                  
+                  
+                 
+                  
+                  
+            
+        </tbody>
+    </table>
+        
+        <br>
+         <button type="submit" value="button1" id="button1" class="button1" onclick="validate()">Save</button>
+    
+    </div>
+    <footer id="footer">
+  <p id="pfooter">Copyright &copy; 2019</p>
+</footer>
+ 
+  
+    </body>
+  
+</html>

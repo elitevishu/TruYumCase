@@ -1,0 +1,192 @@
+#header-container
+{
+    
+    background-color: darkblue;
+    padding-bottom: 30px;
+     padding-top: 20px;
+        
+}
+#headerimage
+{
+    padding-top: 20px;
+    padding-bottom: 0px;
+   
+    
+}
+#mainbody
+{
+  padding-left: 100px;
+    padding-top: 50px;
+    
+}
+.menubtn
+{
+  
+   padding-left: 1000px;
+    
+    text-decoration-color: aliceblue;
+    
+}
+#cartlink
+{
+   
+    text-decoration-color: aliceblue;
+       color: aliceblue;
+
+    padding-top: 0px;
+    
+}
+#menu
+{
+    color: aliceblue;
+
+    
+}
+.cart
+{
+    padding-left: 1250px;
+    padding-bottom: 50px;
+}
+          
+
+#name
+{
+    width: 800px;
+}
+#l2
+{
+     padding-left: 100px;
+}
+#l3
+{
+     padding-left: 0px;
+}
+#l5
+{
+     padding-left: 150px;
+}
+#l6
+{
+    padding-left: 180px;
+}
+
+
+.button1
+{
+    color: aliceblue;
+    background-color:darkblue;
+    width: 100px;
+    height: 50px;
+    margin-left: 150px;
+}
+#table1
+{
+    width: 60%;
+    align-content: center;
+    margin: auto;
+    border-spacing: 0 15px;
+}
+#table1header
+{
+    text-align: left;
+}
+#footer
+{
+background-color: #c0c0c0;
+bottom: 0;
+height:30px;
+position:absolute;
+width: 100%;
+    padding-bottom: 20px;
+}
+
+#pfooter
+{
+    padding-top: 10px;
+    padding-left: 20px;
+   
+}
+#paragraphstatus
+{
+    color: limegreen;
+}
+#paragraphstatus2
+{
+    color: limegreen;
+    text-align: center;
+}
+#paragraphstatus3
+{
+    color: grey;
+}
+#tabletitle
+{
+    padding-left: 250px;
+}
+#tabletitle2
+{
+    padding-left: 150px;
+}
+#form1
+{
+    padding-left: 150px;
+}
+#menu2
+{
+    margin-bottom: 50px;
+}
+header{
+    height: 60px;
+    background-color: #213880;
+}
+header span{
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+header img{
+    width: 40px;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.menu{
+    
+    position: absolute;
+    color: white;
+    padding-top: 20px;
+    right: 60px;
+    
+}
+.cart{
+    position: absolute;
+    right: 20px;
+    color: white;
+    padding-top: 20px;
+}
+#newimagelogo
+{
+    width="200px" ;
+    height="40px";
+}
+#spannew
+{
+    
+    width="200px" ;
+    height="40px";
+}
+#menu_table{
+   padding-left: 150px;
+    width: 80%;
+        border-spacing: 0 15px;
+}
+.editgrey{
+    color: #5d6660;
+    text-align: left;
+}
+
+
